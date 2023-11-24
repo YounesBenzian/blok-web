@@ -1,4 +1,4 @@
-# Procesverslag
+a# Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -19,11 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+ Rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+  Zoveel mogelijk CSS en Javascript animaties en elementen van de website zover ik kan nabouwen
 </details>
 
 
